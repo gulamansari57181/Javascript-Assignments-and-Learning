@@ -46,3 +46,7 @@ if (!NaN) {
     console.log("NaN is not a number");
     console.log(2 / 0);
 }
+
+//output :
+/* NaN is not a number
+Infinity */

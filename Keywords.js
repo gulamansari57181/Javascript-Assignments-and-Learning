@@ -22,11 +22,11 @@ for (let i = 0; i < 5; i++) {
 }
 
 /* output :
-0
-1
-2
-3
-4 */
+        0
+        1
+        2
+        3
+        4 */
 
 //function and return keyword
 

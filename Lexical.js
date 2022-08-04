@@ -15,7 +15,14 @@ const PI = 3.1415;
 console.log(pi);
 console.log(PI);
 
-// Javascript internally convert code into Unicode UTF-16
+// Javascript internally convert code into Unicode UTF-16, it supports unicode character
 
 var Omega = "\u03A9";
 console.log(Omega);
+
+// Comments
+
+// Single line comment is given by "//"
+
+/* Multi line Comment is given 
+as this*/
