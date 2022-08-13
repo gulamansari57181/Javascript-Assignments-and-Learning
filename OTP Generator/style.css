@@ -25,6 +25,7 @@ body {
     border: 4px solid rgb(233, 174, 174);
     border-radius: 1vh;
     margin-left: 2vw;
+    margin-bottom: 50px;
 }
 
 input {
@@ -57,6 +58,12 @@ p {
     margin: 30px;
     font-size: larger;
     color: rgb(112, 20, 225);
-    font-size: 32px;
+    font-size: 3vh;
     font-weight: bold;
+    max-width: 25vw;
+}
+
+#result {
+    padding: 50px;
+    overflow-x: scroll;
 }
